@@ -1,0 +1,11 @@
+venv/
+.env
+.env.*
+__pycache__/
+*.pyc
+credentials.json
+.DS_Store
+.idea/
+*.log
+*.sqlite3
+.ipynb_checkpoints/ 
