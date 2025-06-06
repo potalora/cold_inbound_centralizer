@@ -1,10 +1,3 @@
-
-Of course. You're right, using a library like `browser-use` which is built on an AI-first approach can significantly simplify the browser automation part of this task. It replaces complex Selenium code with natural language prompts, making the agent's logic more intuitive and easier to maintain.
-
-Here is a revised README that builds the project around the `browser-use` library.
-
-***
-
 # AI-Powered LinkedIn Deal Flow Agent (with browser-use)
 
 This project creates an AI-powered agent that automates sourcing angel investment deals from your LinkedIn messages. It intelligently uses natural language to control a web browser, identifies potential investment opportunities in your inbox, extracts key information, and organizes it all in a Google Sheet.
